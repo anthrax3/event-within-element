@@ -1,5 +1,5 @@
 {
-  "name": "within",
+  "name": "event-within-element",
   "version": "0.0.2",
   "description": "Check if an event came from within an element.",
   "keywords": ["dom", "events", "utility"],
